@@ -1,1 +1,1 @@
-# k8s_argo
+# Demo for kubernetes with argo (Gitops)
