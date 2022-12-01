@@ -10,7 +10,6 @@ kubectl create -f postgres-deploy.yaml
 kubectl create -f postgres-service.yaml
 
 kubectl create -f worker-app-depoy.yaml
-kubectl create -f worker-app-service.yaml
 
 kubectl create -f result-app-deploy.yaml
 kubectl create -f result-app-service.yaml
