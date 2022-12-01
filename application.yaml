@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Derek-Xiang/k8s_argo.git    
     targetRevision: HEAD
-    path: vote_front
+    path: vote_app
   destination:
     server: https://kubernetes.default.svc
     namespace: default
